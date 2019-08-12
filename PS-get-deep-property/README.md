@@ -10,3 +10,7 @@
 - After you complete the exercise, provide any notes on your code below such as how to run your example
 
 ## Candidate Notes:
+
+Open index.html
+Choose a vehicle make from the dropdown
+Click each button to get the value from the object.
