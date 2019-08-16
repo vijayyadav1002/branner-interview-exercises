@@ -9,6 +9,21 @@
   - The output would be: 'LastName'
 - After you complete the exercise, provide any notes on your code below such as how to run your example
 
+
+Sample ->
+
+//Method to implement
+function getDeepProperty(obj, path) {
+// Her Code goes here
+}
+
+const dataObject = {person: {name: {first: 'FirstName', middleInitial: 'I', lastName: 'LastName''}}}
+
+const lastName = getDeepProperty(dataObject, ‘person.name.lastName’);
+
+console.log(lastName); // ‘LastName’
+
+
 ## Candidate Notes:
 
 Open index.html
